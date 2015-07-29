@@ -1,5 +1,9 @@
-Fizzbuzz
+# Fizzbuzz
 
-This is a fizzbuzz program.
+This is a program for the game fizzbuzz.
 
-Run by entering python fizzbuzz.py on your command line. 
+To run this program, type the below into your command line:
+
+```sh
+python fizzbuzz.py
+```
